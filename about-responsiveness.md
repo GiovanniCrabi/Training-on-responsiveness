@@ -1,0 +1,1 @@
+Web design responsivo é uma abordagem ao design da Web que faz as páginas da web renderizarem bem em uma variedade de dispositivos e tamanhos de janela ou tela do mínimo ao máximo. Trabalhos recentes também consideram a proximidade do visualizador como parte do contexto de visualização como uma extensão para WDR.
